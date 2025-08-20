@@ -1,1 +1,12 @@
 # SNHU-CS255
+# Cameron Beck
+
+The whole premise of the DrivePass project was to develop a training program that is designated to help customers to prepare themselves to take and pass tests issued at the DMV. The client is DriverPass that is owned by Liam. The type of system that our client wanted us design was the type that instills privileges of access to it's users of who can access what. Liam also wanted us to give the users the ability to purchase a course package, schedule appointments for driver training with a driving instructor, and to study and take practice tests involving standardized materials from the DMV.
+
+When it comes to the whole project in question, what I did particularly well was designing a UML Case diagram depicting all of its case actors as to how each of them plays a role with the system's use. 
+
+If I could choose one part of my work on these documents to revise would be my UML sequence diagram is because within the design of my sequence diagram the third "object" isn't really an object but another case user. To further elaborate, my sequence diagram focused on how the customer user interacts with the objects within the diagram. However, that one "object" happens to be another case user which is the driving instructor. I practically just said "I might as well add the driver to the diagram just to simplify it".
+
+The way I interpreted the user's needs and implemented them into my system design was by highlighting certain parts of the user's needs from the transcript and then implement each need onto my system design based on each of the client's request accordingly. It is important to consider the user's needs when designing because the user may have different views of success versus what the developer may consider to be successful. It's crucial to understand the user's needs because it provides the developers a deep understanding of what is needed for the project.
+
+The way I would approach designing software is by asking and understanding my clients needs and requirements for the software. Then I would map out a schedule with each week having certain goals of what tasks need to be completed before proceeding to the next. The strategy that I would use in the future to analyze and design a system is feedback. Regardless of whether or not the feedback is good, it would lay out a step in another direction of where I can go to in order to make any changes and improve the system.
